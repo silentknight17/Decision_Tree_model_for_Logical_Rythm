@@ -1,2 +1,2 @@
-# Decision_Tree_model_for_Logical_Rythm
+# Logical Rythm Solutions
 Avishkar 2020 Problem statement 2 Submission
